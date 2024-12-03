@@ -1,0 +1,7 @@
+## 1 Estructura
+
+-  Se compone de 4 divisiones
+	- [[IDENTIFICATION DIVISION]]
+	- `ENVIRONMENT DIVISION`
+	- `DATA DIVISION`
+	- `PROCEDURE DIVISION`
