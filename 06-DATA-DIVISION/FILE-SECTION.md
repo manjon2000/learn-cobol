@@ -11,7 +11,7 @@
             - Tipos de datos (9. X. A)
                 - 9: Si es un tipo de dato númerico
                 - X: Si es alfanúmerico
-                - A: Si es alfabertico
+                - A: Si es alfabético
             - Longitud (entre paréntesis)
 
 ```COBOL
